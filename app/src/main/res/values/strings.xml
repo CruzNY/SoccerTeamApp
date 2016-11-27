@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Soccer Team App</string>
+    <string name="albert">Albert</string>
+    <string name="alex">Alex</string>
+    <string name="angel">Angel</string>
+    <string name="chris">Chris</string>
+    <string name="david">David</string>
+    <string name="downy">Downy</string>
+    <string name="edward">Edward</string>
+    <string name="erik">Erik</string>
+    <string name="gabby">Gabby</string>
+    <string name="jesus">Jesus</string>
+    <string name="jose">Jose</string>
+    <string name="rodi">Rodi</string>
+    <string name="roy">Roy</string>
+    <string name="raul">Raul</string>
+    <string name="omar">Omar</string>
+    <string name="skips">Skips</string>
+    <string name="btn">Submit</string>
+
+</resources>
